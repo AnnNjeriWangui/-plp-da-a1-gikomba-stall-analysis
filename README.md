@@ -1,6 +1,7 @@
 Name:Ann Njeri
 
 Cohort: 1Million devs Data Analytics cohort 2026
+google colab link:https://colab.research.google.com/drive/1JTtc-Gwh69YC79iRbo4a6qBFdwnh_Fgx?usp=sharing
 
 Business Problem Summary
 Wanjiku operates a fresh-produce stall at Gikomba Market and has recorded two weeks of daily sales and rough stock counts in a notebook. Facing critical business questions regarding overall growth, inventory levels, and operational focus, she hired a freelance data analyst to evaluate her raw records using core Python. The goal is to uncover revenue trends, identify stockouts risks, and provide actionable insights.
